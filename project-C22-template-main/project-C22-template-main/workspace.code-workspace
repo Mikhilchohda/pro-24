@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\PRO-C22-wireframe-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501,
+		"liveServer.settings.multiRootWorkspaceName": "project-C22-template-main"
+	}
+}
